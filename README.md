@@ -33,9 +33,9 @@ Below you can see all the resources and the work that was done on the data. It i
 
 
 ##  References
-- [Pushshift's API] (https://github.com/pushshift/api)
-- [CasualConversation] (https://www.reddit.com/r/CasualConversation/)
-- [SeriousConversation] (https://www.reddit.com/r/SeriousConversation/)
+- [Pushshift's API](https://github.com/pushshift/api)
+- [CasualConversation](https://www.reddit.com/r/CasualConversation/)
+- [SeriousConversation](https://www.reddit.com/r/SeriousConversation/)
 
 
 
