@@ -19,12 +19,12 @@ Below you can see all the resources and the work that was done on the data. It i
 ## Contents:
 
 - [Code] 
-- [Data Gathering](01_Data_Gathering)
+- [Data Gathering](01_Data_Gathering.ipynb)
 - [Data Cleaning and EDA](02_Data_Cleaning_EDA.ipynb)
 - [Further Cleaning](03_Further_Cleaning.ipynb)
-- [Modeling] (04_Modeling)
-- [More Data Visualization](05_Visualizations)
-- [Project 3 Reddit Classification PPT](#Project_3_Reddit_Classification.pptx)
+- [Modeling](04_Modeling.ipynb)
+- [More Data Visualization](05_Visualizations.ipynb)
+- [Project 3 Reddit Classification PPT](Project_3_Reddit_Classification.pdf)
 
 ## Data sources:
 - [Original Reddit Dataset](Datasets/big_reddit_list.csv)
