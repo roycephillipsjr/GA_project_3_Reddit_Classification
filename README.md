@@ -4,7 +4,7 @@
 Reddit is a large platform with millions of submissions and hundreds if not thousands of subreddits. Each subreddit has its own topics and personality. Is it possible to create a classification model that can decipher between two separate subreddits. The subreddits in question is 'CasualConversation' and it's sister subreddit 'SeriousConversation'. Can a machine learning model be created to know the difference between these two similar subreddits.
 
 ## Executive Summary
-Looking through this notebook you can see all the information you need to find on how I came to my conclusion. The data was created by pulling the information from Pushshift's Reddit API (https://github.com/pushshift/api). The dataset was then created from my initial pull and then I cleaned and parsed the data to fit it into a model.
+Looking through this notebook you can see all the information you need to find on how I came to my conclusion. The data was created by pulling the information from Pushshift's Reddit API(https://github.com/pushshift/api). The dataset was then created from my initial pull and then I cleaned and parsed the data to fit it into a model.
 
 
 Below you can see all the resources and the work that was done on the data. It includes:
@@ -18,7 +18,6 @@ Below you can see all the resources and the work that was done on the data. It i
 
 ## Contents:
 
-- [Code] 
 - [Data Gathering](01_Data_Gathering.ipynb)
 - [Data Cleaning and EDA](02_Data_Cleaning_EDA.ipynb)
 - [Further Cleaning](03_Further_Cleaning.ipynb)
